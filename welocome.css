@@ -1,0 +1,25 @@
+h1 {
+  font-family: 'Gloria Hallelujah', cursive;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translateX(-50%) translateY(-50%);
+}
+
+h2 {
+  font-family: 'Gloria Hallelujah', cursive;
+  position: absolute;
+  left: 50%;
+  top: 40%;
+  transform: translateX(-50%) translateY(-50%);
+  font-size: 30px;
+}
+
+body {
+  background-color: #55d6aa;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
